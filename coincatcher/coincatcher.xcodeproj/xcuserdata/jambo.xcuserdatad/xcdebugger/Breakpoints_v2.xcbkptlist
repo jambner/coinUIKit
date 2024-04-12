@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "23430374-86B3-483E-9698-78C8FF27AB61"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6DCC83C2-E59C-41E3-A2F4-EDBBC40127C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coincatcher/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "setupViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB19C9C0-3DCF-4788-A19E-350FDFBE0FCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coincatcher/StartGameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "startGame()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DBA18ED-CFE7-4E24-97AC-82AFD42B6FFA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coincatcher/Presenter/DataPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "gameOver()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9650A758-B19E-4207-B6D6-559D318F6E2B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coincatcher/Presenter/DataPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "startOverallTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "797E125A-A58B-4261-8B41-EA0F2D73007F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coincatcher/ViewControllers/GameOverViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "GameOverViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "797E125A-A58B-4261-8B41-EA0F2D73007F - 8f15772922b447fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coincatcher.GameOverViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; coincatcher.GameOverViewController"
+                  moduleName = "coincatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jambo/Desktop/projects/coinUIKit/coincatcher/coincatcher/ViewControllers/GameOverViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "797E125A-A58B-4261-8B41-EA0F2D73007F - 8c566d92bcba4cfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coincatcher.GameOverViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; coincatcher.GameOverViewController"
+                  moduleName = "coincatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jambo/Desktop/projects/coinUIKit/coincatcher/coincatcher/ViewControllers/GameOverViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "797E125A-A58B-4261-8B41-EA0F2D73007F - 2c50b03dc92f544a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coincatcher.GameOverViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;coincatcher.GameOverViewController&gt;"
+                  moduleName = "coincatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jambo/Desktop/projects/coinUIKit/coincatcher/coincatcher/ViewControllers/GameOverViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "797E125A-A58B-4261-8B41-EA0F2D73007F - 8e47eb33a29ad7a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coincatcher.GameOverViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;coincatcher.GameOverViewController&gt;"
+                  moduleName = "coincatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jambo/Desktop/projects/coinUIKit/coincatcher/coincatcher/ViewControllers/GameOverViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "797E125A-A58B-4261-8B41-EA0F2D73007F - f69fa93808d8353b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coincatcher.GameOverViewController.__deallocating_deinit"
+                  moduleName = "coincatcher"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jambo/Desktop/projects/coinUIKit/coincatcher/coincatcher/ViewControllers/GameOverViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
